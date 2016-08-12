@@ -1,0 +1,66 @@
+{   
+    "data": {
+        "productCode": "TEST0001",
+        "mainInfo": {
+            "provinceCode": "300000",
+            "cityCode": "300001",	
+            "startDate": "2016-08-08T02:13:34.246Z",
+            "endDate": "2016-08-19T02:13:34.246Z",
+            "sumAmount": 999,
+            "sumPremium": 99,
+            "benType": "2",
+            "isaFlag": 0
+        },
+        "appliInfo": {
+            "name": "托马斯",
+            "gender": "1",
+            "idType": "01",
+            "idNo": "410305198407063451",
+            "birthday": "1984-07-06",
+            "comPhone": "021-88888888",
+            "mobile": "13764648888",
+            "email": "test@99bx.cn",
+            "workDpt": "慧保科技",
+            "address": "新金桥路58号",
+            "occType": "01",
+            "zipCode": "201300",
+            "provinceCode": "300000",
+            "cityCode": "3000001"
+        },
+        "insuredInfo": {
+            "name": "托马斯",
+            "gender": "1",
+            "idType": "01",
+            "idNo": "410305198407063451",
+            "birthday": "1984-07-06",
+            "comPhone": "021-88888888",
+            "mobile": "13764648888",
+            "email": "test@99bx.cn",
+            "workDpt": "慧保科技",
+            "address": "新金桥路58号",
+            "occType": "01",
+            "zipCode": "201300",
+            "provinceCode": "300000",
+            "cityCode": "3000001"
+        },
+        "beneInfo": {
+            "name": "托马斯",
+            "benAppRel": "本人",
+            "gender": "1",
+            "idType": "01",	
+            "idNo": "610527198103255039",
+            "birthday": "1984-07-06"
+        },
+        "insTgtInfo": {
+            "address": "新金桥路58号",
+            "tgtAddr": "九间堂",
+            "housetype": "别墅",
+            "houseAge": "9",
+            "housePrice": 90000000,
+            "licenseNo": "A1234",
+            "engineNo": "8892384",
+            "frameNo": "FM932492",
+            "seatCount": "5"
+        }
+    }
+}

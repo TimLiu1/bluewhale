@@ -1,0 +1,7 @@
+/node_modules/*
+!/node_modules/generator-chameleon
+/node_modules/generator-chameleon/node_modules/
+/public/html/
+/.build
+*.log
+.vscode/

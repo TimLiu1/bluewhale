@@ -1,0 +1,14 @@
+{
+  "generator-kraken": {
+    "taskModule": "grunt",
+    "lintModule": "eslint",
+    "description": "a template project based on kraken for huibao projects",
+    "author": "yanxiaonan",
+    "templateModule": "dustjs",
+    "i18n": false,
+    "componentPackager": "bower",
+    "cssModule": false,
+    "jsModule": false,
+    "useJson": null
+  }
+}
